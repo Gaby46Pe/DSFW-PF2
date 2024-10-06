@@ -5,7 +5,8 @@
 - En la siguiente sección Skills, mencioné con lo que trabajé.
 - Posteriormente dividí mi primera presentación en 3 secciones con algunos cambios en la distribución y estilo, pero manteniendo lo que hice.
 - Y finalmente la sección de Contacto con un footer con las redes sociales.
-- Acá algunas pantallas de muestra: 
+- Acá algunas pantallas de muestra:
+  ![Pantalla1](assets/images/screen1.jpg)
 ![] (assets/images/screen1.jpg)
 ![] (assets/images/screen2.jpg)
 ![] (assets/images/screen3.jpg)
