@@ -1,3 +1,4 @@
+/* para que no haya espacio en blanco alrededor del contenido del cuerpo de la página.*/
 body {
   margin: 0;
 }
@@ -23,8 +24,6 @@ body {
     width: 30rem;
     height: 25rem;
 }
-
-/* imagen de fondo hero como imagen no estaba pongo otra y cambio ruta */
 
 .bgimage {
     height: 100vh;
@@ -52,18 +51,64 @@ body {
     color: rgb(130, 25, 244); /* lo cambié de white*/
 }
 
-/* about section image css */
+/* about section */
+
+.about {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.container-fluid.text-center {
+  display: flex;
+  justify-content: center; /* Puedes ajustar esto según lo necesites */
+  align-items: center;
+}
 
 .imageAboutPage {
-    width: 50%;
-    border-radius: 45px;
-    position: static;
-    left: 50%;
-}
-.about {
-  text-align: justify;
+  position: static;
+  left: 50%;
+  width: 40%;
+  border-radius: 45px;
+  margin-right: 2rem; /*espacio a la derecha de la imagen */
 }
  
+.row.mt-2 {
+  align-items: center; /* Centrar verticalmente la imagen y el texto */
+  justify-content: flex-start; /* para que los elementos estén alineados al inicio */
+}
+
+.col-lg-4 {
+  justify-content: flex-start; /* Asegúrate que la imagen esté alineada a la izquierda */
+}
+
+.col-lg-8 {
+  text-align: justify;  
+}
+#about  { 
+color: rgb(130, 25, 244);
+background-color: #f4cef1; 
+text-align: justify; 
+margin-top: 7rem; 
+margin-right: 50%;
+padding-top: 7rem;
+padding-bottom: 10rem;
+margin-bottom: 16rem;
+width: 100%; /* para que el color ocupe todo el contenedor */
+}
+
+h1 {
+margin-bottom: 50px; /* Espacio debajo del título */
+padding-bottom: 50px; /* Espacio interno debajo del título */
+}
+
+.container-fluid.text-center {
+  display: flex;
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+}
+
 .navbarScroll.navbarDark {
     background-color: rgb(130, 25, 244);
     height: 40px; 
@@ -105,21 +150,20 @@ body {
 
 /* spacing on all sections */
 
-#about,
 #skills,
 #projects,
-#contact { 
+#newprojects { 
     margin-top: 10rem;
-    padding-top: 8rem;
-    padding-bottom: 8rem;
-    margin-bottom: 10rem;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+    margin-bottom: 8rem;
 }
 
-
-#about  { 
-color: rgb(130, 25, 244);
-background-color: #f4cef1; 
-text-align: justify; 
+#morenewprojects { 
+  margin-top: 10rem;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  margin-bottom: 12rem;
 }
 
 /* Sección de habilidades */
@@ -131,9 +175,10 @@ text-align: justify;
   margin-top: 10rem; 
 }
 
-#projects {
+#projects, #newprojects, #morenewprojects {
   color: rgb(130, 25, 244);
 }
+
 h1 {
   color:rgb(130, 25, 244); 
   margin-top: 30px; 
@@ -147,7 +192,11 @@ h3, h4, h5, form {
 }
 
 #contact {
-    padding-bottom: 4rem;
+    color:rgb(130, 25, 244); 
+    margin-top: 8rem;
+    padding-bottom: 6rem;
+    margin-bottom: 0rem;
+    padding-bottom: 0rem;
 }
 
 /* Ajustes de margen y padding */
@@ -155,7 +204,8 @@ h3, h4, h5, form {
   margin: 10px 0;
   padding: 10px;
 }
-article.listas{
+
+article.listas {
   color: rgb(130, 25, 244);
   width: fit-content;
   margin-left: auto;
@@ -196,7 +246,6 @@ table {
  tr:nth-child(odd) {
   background-color: #94ebfb; /* Color para filas impares */
  }
-
 
  button.btn.btn-success.mt-3 {
   background-color: mediumpurple;
