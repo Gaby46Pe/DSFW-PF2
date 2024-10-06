@@ -36,11 +36,11 @@ body {
 /* css de texto encima de la imagen hero */
 
 .hero_title {
-    font-size: 8rem;
+    font-size: 5rem;
 }
 
 .hero_desc {
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .hero-text {
