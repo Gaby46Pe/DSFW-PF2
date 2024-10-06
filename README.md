@@ -7,8 +7,7 @@
 - Y finalmente la sección de Contacto con un footer con las redes sociales.
 - Acá algunas pantallas de muestra: 
 - <img src="assets/img/screen1.jpg" alt="porfolio1>"
-- <img src="assets/img/screen2.jpg" alt="porfolio1>"
-- <img src="assets/img/screen3.jpg" alt="porfolio1>"
-- <img src="assets/img/screen4.jpg" alt="porfolio1>"
-- Gracias por leer mi trabajo.
- 👀 Estoy interesada en aprender pero me cuesta.
+- <img src="assets/img/screen2.jpg" alt="porfolio>"
+- <img src="assets/img/screen3.jpg" alt="porfolio3>"
+- <img src="assets/img/screen4.jpg" alt="porfolio4>"
+- Gracias por leer mi trabajo. 
