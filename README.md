@@ -6,8 +6,8 @@
 - Posteriormente dividí mi primera presentación en 3 secciones con algunos cambios en la distribución y estilo, pero manteniendo lo que hice.
 - Y finalmente la sección de Contacto con un footer con las redes sociales.
 - Acá algunas pantallas de muestra: 
-![](assets/images/screen1.jpg)
-![](assets/images/screen2.jpg)
-![](assets/images/screen3.jpg)
-![](assets/images/screen4.jpg) 
+![] (assets/images/screen1.jpg)
+![] (assets/images/screen2.jpg)
+![] (assets/images/screen3.jpg)
+![] (assets/images/screen4.jpg) 
 - Gracias por leer mi trabajo.  
