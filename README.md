@@ -7,7 +7,7 @@
 - Y finalmente la sección de Contacto con un footer con las redes sociales.
 - Acá algunas pantallas de muestra: 
 ![](assets/images/screen1.jpg)
-<image src="assets/images/screen2.jpg" alt="porfolio>"
+<img src="assets/images/screen2.jpg" alt="porfolio>"
 <image src="assets/images/screen3.jpg" alt="porfolio3>"
 <image src="assets/imagez/screen4.jpg" alt="porfolio4>"
 - Gracias por leer mi trabajo.  
